@@ -1,0 +1,11 @@
+ros-rolling-keyboard-handler (0.0.2-1focal) focal; urgency=high
+
+  * Merge pull request #5 <https://github.com/ros-tooling/keyboard_handler/issues/5> from lihui815/sonia-str2code
+    added enum_str_to_key_code
+  * Unified keyboard handler (#1 <https://github.com/ros-tooling/keyboard_handler/issues/1>)
+    * Initial implementation for Keyboard handler
+  * Contributors: Emerson Knapp, Michael Orlov, Sonia Jin
+
+ -- michael <michael.orlov@apex.ai>  Thu, 02 Sep 2021 07:00:00 -0000
+
+
