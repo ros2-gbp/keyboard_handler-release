@@ -1,3 +1,26 @@
+## keyboard_handler (humble) - 0.0.5-1
+
+The packages in the `keyboard_handler` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble keyboard_handler` on `Tue, 08 Nov 2022 14:07:47 -0000`
+
+The `keyboard_handler` package was released.
+
+Version of package(s) in repository `keyboard_handler`:
+
+- upstream repository: https://github.com/ros-tooling/keyboard_handler.git
+- release repository: https://github.com/ros2-gbp/keyboard_handler-release.git
+- rosdistro version: `0.0.4-2`
+- old version: `0.0.4-2`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## keyboard_handler (rolling) - 0.0.4-1
 
 The packages in the `keyboard_handler` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling keyboard_handler` on `Tue, 29 Mar 2022 13:00:33 -0000`
