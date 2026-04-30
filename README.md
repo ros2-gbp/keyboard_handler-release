@@ -1,3 +1,26 @@
+## keyboard_handler (rolling) - 0.5.1-1
+
+The packages in the `keyboard_handler` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling keyboard_handler` on `Thu, 30 Apr 2026 17:23:22 -0000`
+
+The `keyboard_handler` package was released.
+
+Version of package(s) in repository `keyboard_handler`:
+
+- upstream repository: https://github.com/ros-tooling/keyboard_handler.git
+- release repository: https://github.com/ros2-gbp/keyboard_handler-release.git
+- rosdistro version: `0.5.0-2`
+- old version: `0.5.0-2`
+- new version: `0.5.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.2`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## keyboard_handler (jazzy) - 0.3.2-1
 
 The packages in the `keyboard_handler` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy keyboard_handler` on `Wed, 21 Jan 2026 17:35:57 -0000`
